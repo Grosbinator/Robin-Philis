@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Grosbinator">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=1200&text=Turning%20Data%20into%20Intelligent%20Solutions" alt="Turning Data into Intelligent Solutions" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=570&text=Hello%20I'm%20Robin" alt="Hello I&#39;m Robin" />
   </a>
 </p>
 
